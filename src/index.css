@@ -4,6 +4,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  min-height: 100vh;
+
   background: #03001e; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to top,
@@ -38,5 +40,9 @@ body {
 .page-title {
   font-family: 'Fascinate Inline', cursive;
   font-size: 4rem;
+  color: ghostwhite;
+}
+
+.loading-text {
   color: ghostwhite;
 }
