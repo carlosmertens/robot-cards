@@ -25,7 +25,7 @@ class App extends Component {
 
     return (
       <div className='tc'>
-        <h1>Robots Collection</h1>
+        <h1 className='page-title'>Robots Collection</h1>
         <SearchBox
           searchField={this.state.searchField}
           searchChange={this.onSearchChange}
