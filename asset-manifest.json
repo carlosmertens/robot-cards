@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robot-cards/static/css/main.c19dbdc7.css",
+    "main.js": "/robot-cards/static/js/main.48309f41.js",
+    "static/media/SEGA.woff": "/robot-cards/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robot-cards/index.html",
+    "main.c19dbdc7.css.map": "/robot-cards/static/css/main.c19dbdc7.css.map",
+    "main.48309f41.js.map": "/robot-cards/static/js/main.48309f41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19dbdc7.css",
+    "static/js/main.48309f41.js"
+  ]
+}
