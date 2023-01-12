@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/robot-cards/static/css/main.08cbb606.css",
-    "main.js": "/robot-cards/static/js/main.7c48799d.js",
+    "main.js": "/robot-cards/static/js/main.c6fbfccc.js",
     "index.html": "/robot-cards/index.html",
     "main.08cbb606.css.map": "/robot-cards/static/css/main.08cbb606.css.map",
-    "main.7c48799d.js.map": "/robot-cards/static/js/main.7c48799d.js.map"
+    "main.c6fbfccc.js.map": "/robot-cards/static/js/main.c6fbfccc.js.map"
   },
   "entrypoints": [
     "static/css/main.08cbb606.css",
-    "static/js/main.7c48799d.js"
+    "static/js/main.c6fbfccc.js"
   ]
 }
