@@ -4,10 +4,12 @@ CRA (Creat React APP) project with input search functionallity and using class
 
 ## Dependencies
 
-- CRA
-- Tachyons
-- dummyJSON API
-- Robohash API
+- CRA (Create React App)
+- Tachyons (http://tachyons.io/)
+- dummyJSON API (https://dummyjson.com/)
+- Robohash API (https://robohash.org/)
+- CSS Gradient (https://cssgradient.io/)
+- Google fonts (https://fonts.google.com/)
 
 ### To run the project:
 
