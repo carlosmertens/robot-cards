@@ -1,4 +1,4 @@
-export const SearchBox = ({ searchField, searchChange }) => {
+export const SearchBox = ({ searchChange }) => {
   return (
     <div className='pa2'>
       <input
